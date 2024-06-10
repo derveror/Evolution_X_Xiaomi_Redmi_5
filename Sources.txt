@@ -1,0 +1,7 @@
+https://github.com/baunilla/android_device_xiaomi_rosy
+
+https://github.com/baunilla/android_kernel_xiaomi_rosy
+
+https://github.com/LineageOS/android_hardware_xiaomi
+
+https://github.com/aepranata/vendor_xiaomi_rosy/tree/14
