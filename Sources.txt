@@ -1,7 +1,23 @@
+Evolution X 9.0
+
+https://github.com/Evolution-XYZ
+
+https://github.com/LineageOS/android_hardware_xiaomi
+
 https://github.com/baunilla/android_device_xiaomi_rosy
 
 https://github.com/baunilla/android_kernel_xiaomi_rosy
 
+https://github.com/aepranata/vendor_xiaomi_rosy/tree/14
+
+Evolution X 9.2
+
+https://github.com/Evolution-XYZ
+
 https://github.com/LineageOS/android_hardware_xiaomi
 
-https://github.com/aepranata/vendor_xiaomi_rosy/tree/14
+https://github.com/aepranata/device_xiaomi_rosy
+
+https://github.com/aepranata/vendor_xiaomi_rosy
+
+https://github.com/aepranata/kernel_xiaomi_rosy
