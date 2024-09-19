@@ -1,3 +1,13 @@
+Evolution X 9.4
+
+https://github.com/Evolution-X
+
+https://github.com/baunilla/android_device_xiaomi_rosy
+
+https://github.com/baunilla/android_kernel_xiaomi_rosy
+
+https://github.com/baunilla/android_vendor_xiaomi_rosy
+
 Evolution X 9.3
 
 https://github.com/Evolution-X
